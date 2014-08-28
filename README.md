@@ -8,10 +8,11 @@ livestreamer.
 Just run python twitchlist.py
 
 
-For the future:
+For the future
+
 1. Make the script have optional inputs to specify what game to search for [ie dota2 vs sc2]
 2. Make the streams be sorted by LIVE viewers and not total views 
 
 
-DEPENDENCY WARNING: livestreamer @ http://livestreamer.readthedocs.org/en/latest/install.html
+*DEPENDENCY WARNING*: livestreamer @ http://livestreamer.readthedocs.org/en/latest/install.html
 for ubuntu: sudo apt-get install livestreamer
